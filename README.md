@@ -1,2 +1,4 @@
 # CalcultatotJS
-Primeiro projeto usando JS
+First project using JS.
+Status: developing ⚠️.
+
